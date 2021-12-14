@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Arsenal:wght@400;700&display=swap');
+
+
+* {
+    font-family: 'Arsenal', sans-serif;
+  }
+  .my-bg {
+    background-color:#b8e6ba;
+    /*#EDD9FF;*/
+  }
+  a {
+    color: white !important;
+  }
+  a:hover {
+    color: #665340 !important;
+  }
